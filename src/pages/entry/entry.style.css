@@ -1,0 +1,21 @@
+.entry-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f4f6;
+}
+
+.form-box {
+  box-shadow: 0px 0px 15px -5px black;
+}
+
+.backMain a{
+  text-decoration: none;
+  color:rgb(24, 23, 23) ;
+}
+.backMain{
+  margin:0 0 35px 0;
+}
+.wrap{
+  margin-top: 50px;
+}

@@ -1,0 +1,22 @@
+.registration-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f4f6;
+
+}
+
+.form-box {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.backMain a{
+  text-decoration: none;
+  color:rgb(24, 23, 23) ;
+}
+.backMain{
+  text-align: center;
+  margin:0 0 35px 0;
+}
+.wrap{
+  margin-top: 50px;
+}
